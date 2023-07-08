@@ -35,6 +35,7 @@ const sarah = {
 		street: sarahStreet,
 		'postal-code': sarahPostal,
 	}
+}
 
 console.log(leo,leo.address['postal-code']);
 console.log(sarah,sarah.address['postal-code']);
